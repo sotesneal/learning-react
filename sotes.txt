@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 eqwe
+=======
+this a test file
+
+edited from neal 
+>>>>>>> neal
