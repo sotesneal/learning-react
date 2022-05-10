@@ -1,0 +1,50 @@
+export default [
+  {
+    id: 1,
+    avatar: "https://semantic-ui.com/images/avatar2/large/matthew.png",
+    name: "Matt Giampietro",
+    meta: "Friends",
+    dateJoined: "Joined in 2013",
+    description: "Matthew is an interior designer living in New York.",
+    openSpots: 0,
+    reviews: {
+      numberOfFriends: 23,
+      text: "friends",
+    },
+  },
+  {
+    id: 2,
+    avatar: "https://semantic-ui.com/images/avatar2/large/molly.png",
+    name: "Molly",
+    meta: "Coworker",
+    dateJoined: "Joined in 2000",
+    description: "Molly is a personal assistant living in Paris.",
+    reviews: {
+      numberOfFriends: 23,
+      text: "friends",
+    },
+    openSpots: 3,
+  },
+  {
+    id: 3,
+    avatar: "https://semantic-ui.com/images/avatar2/large/rachel.png",
+    name: "Rachel",
+    meta: "Coworker",
+    dateJoined: "Joined in 2019",
+    description: "Rachel is a software engineer living in Philippines.",
+    openSpots: 5,
+  },
+  {
+    id: 4,
+    avatar: "https://semantic-ui.com/images/avatar2/large/lindsay.png",
+    name: "Lindsay",
+    meta: "Coworker",
+    dateJoined: "Joined in 2020",
+    description: "Lindsay is a personal Qa Tester living in Philippines.",
+    openSpots: 10,
+    reviews: {
+      numberOfFriends: 23,
+      text: "friends",
+    },
+  },
+];
